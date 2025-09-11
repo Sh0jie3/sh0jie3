@@ -1,8 +1,13 @@
 ## Hi there 👋
 My name is Adrienn Josh B. Lopez and I am a 22 year old student at MSU-IIT studying Information Technology!
 
-🌱 I’m currently learning **Networks, Information Technology, and related fields** as an eager student always looking to grow.  
+💻 BSIT Student | Aspiring Software Developer  
+📍 MSU-IIT | Interested in Web Development, IT Support, Cybersecurity, Data Analyst!
 
-🔭 I’m currently working on **honing my skills and building up experience** through projects and continuous learning.  
+## 🚀 Projects
+- [Cryptography](https://github.com/Sh0jie3/cryptography-activities)  
+- [Machine Learning using AI](https://github.com/Sh0jie3/machine-learning-ai)  
 
-⚡ Fun fact: I can go **2 days without sleeping** 
+## 🛠️ Tech Stack
+- Languages: PHP, JavaScript, Python 
+- Tools: MySQL, Git, Packet Tracer
